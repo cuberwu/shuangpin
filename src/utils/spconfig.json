@@ -87,6 +87,50 @@
       "ou/ou"
     ]
   },
+  "万象双拼": {
+    "keyMap": [
+      "q/iu/q",
+      "w/in/w",
+      "e/e/",
+      "r/uan/r",
+      "t/üe,ue/t",
+      "y/ang/y",
+      "u/u/sh",
+      "i/i/ch",
+      "o/o,uo/",
+      "p/iao/p",
+      "a/a/",
+      "s/en/s",
+      "d/eng/d",
+      "f/iang,uang/f",
+      "g/ia,ua/g",
+      "h/ong,iong/h",
+      "j/an/j",
+      "k/ing,uai/k",
+      "l/ai/l",
+      "z/ie/z",
+      "x/ei/x",
+      "c/ou/c",
+      "v/ü,ui/zh",
+      "b/un,ün/b",
+      "n/ao/n",
+      "m/ian/m"
+    ],
+    "zeroMap": [
+      "aa/a",
+      "ai/ai",
+      "an/an",
+      "ay/ang",
+      "ao/ao",
+      "ee/e",
+      "ei/ei",
+      "en/en",
+      "ed/eng",
+      "er/er",
+      "oo/o",
+      "ou/ou"
+    ]
+  },
   "小鹤双拼": {
     "keyMap": [
       "q/iu/q",
